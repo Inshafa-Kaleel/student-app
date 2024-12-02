@@ -1,0 +1,1 @@
+The Student App is a React-based web application designed to provide a user-friendly interface for students to navigate various sections such as About, Profile, Settings, and Login. It utilizes React Router for navigation and implements responsive styling for a seamless experience across different devices
